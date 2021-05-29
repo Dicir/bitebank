@@ -12,6 +12,15 @@
   "keywords": [
     "javascript",
     "orientação",
-    "objeto"
-  ]
+    "objeto",
+    "OO"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dicir/bitebank.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dicir/bitebank/issues"
+  },
+  "homepage": "https://github.com/Dicir/bitebank#readme"
 }
